@@ -7,6 +7,7 @@ int main()
 		int account;
 		float balance;
 	};
+	
 	struct bank checking;
 
 	checking.account = 1234;
